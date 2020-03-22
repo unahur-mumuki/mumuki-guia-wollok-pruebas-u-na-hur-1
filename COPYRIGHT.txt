@@ -1,0 +1,5 @@
+Copyright La gente de UNaHur and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/unahur-mumuki/mumuki-guia-wollok-pruebas-u-na-hur-1 and the AUTHORS.txt file.
